@@ -1,6 +1,5 @@
 import { client } from '@/lib/sanity';
 import { QUERY_FEATURED, QUERY_TRENDING } from '@/lib/queries';
-import { motion } from 'motion/react';
 
 import { AboutSection } from "@/src/components/AboutSection";
 import { SearchFilter } from "@/src/components/SearchFilter";
